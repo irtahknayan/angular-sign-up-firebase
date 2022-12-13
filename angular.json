@@ -103,6 +103,5 @@
         }
       }
     }
-  },
-  "defaultProject": "angular-sign-up-firebase"
+  }
 }
